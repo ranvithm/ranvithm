@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ranjithkumar
+- 👀 I'm interested to learn new skills
+- 🌱 I’m currently learning Python
+- 💞️ I'm looking to collaborate on learn and develop together
+- 📫 How to reach me https://www.linkedin.com/in/ranjithkumarm93/
