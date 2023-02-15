@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m RanjithKumar M<br>👀 I'm interested to learn new skills<br>🌱 I’m currently learning Python<br>💞️ I'm looking to collaborate on learn and develop together<br>📫 How to reach me https://www.linkedin.com/in/ranvithm/
+# 💫 RanjithKumar M:
+👋 Hi, <br>👀 I'm interested to learn new skills<br>🌱 I’m currently learning Python<br>💞️ I'm looking to collaborate on learn and develop together<br>📫 How to reach me https://www.linkedin.com/in/ranvithm/
 
 
 ## 🌐 Socials:
